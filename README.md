@@ -2,5 +2,6 @@
 
 execute: go run main.go
 
-to compile: go build main.go       , this creates "main"
+after making changes to main.go,
+compile with: go build main.go       , this creates "main"
 then ./main    (independent executable binary)
